@@ -4,5 +4,5 @@ This is a small project to demo some front-end web development skills that I hav
 - **Turtorial**: https://www.youtube.com/watch?v=_xkSvufmjEs
 - **Tech Stacks**: HTML, CSS, and a little bit of Javascript
 - **Hosting service**:  
-    - Digital Ocean (no domain yet): http://165.227.85.71
+    - Digital Ocean (no domain yet): http://165.227.85.71 (old site)
     - Github: https://locnguyen14.github.io 
